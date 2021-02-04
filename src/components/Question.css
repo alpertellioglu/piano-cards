@@ -1,0 +1,11 @@
+.question-container {
+  width: 100vw;
+  margin: auto;
+  text-align: center;
+  margin-top: 5%;
+  transition: all 0.3s ease-out;
+}
+.note {
+  width: 600px;
+  transition: all 0.3s ease-out;
+}
